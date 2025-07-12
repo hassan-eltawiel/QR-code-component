@@ -15,8 +15,7 @@ body {
     justify-content: center;
 }
 .card {
-    width: 415px;
-    /* height: 660px; */
+    max-width: 280px;
     margin: auto;
     background: #fff;
     border-radius: 10px;
